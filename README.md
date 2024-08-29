@@ -1,0 +1,1 @@
+Experienced in building robust data pipelines and automating data workflows. Proficient in Big Data analytics with hands-on expertise in cloud technologies and stream processing.Passionate about solving complex data challenges and optimizing data architecture for scalable solutions.

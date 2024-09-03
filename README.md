@@ -27,5 +27,6 @@ Automated the process of loading data from DynamoDB to S3, then into Snowflake u
 
 ## 📫 How to Reach Me
 -LinkedIn: [Connect with me](www.linkedin.com/in/nevina-pl-11d89y)
-- Email: [nevina89@gmail.com](mailto:youremail@example.com)
+
+-Email: [nevina89@gmail.com](mailto:youremail@example.com)
 

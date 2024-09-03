@@ -1,4 +1,4 @@
-# Hi there, I'm [Nevina P L] 👋
+# Hi, I'm Nevina P L 👋
 
 A passionate data engineer with expertise in Big Data technologies, cloud computing, and building scalable ETL pipelines. Currently working at GoFreeLab Technologies, I enjoy solving complex data challenges and creating automated data flows.
 

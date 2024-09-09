@@ -18,7 +18,7 @@ Built an ETL pipeline using Kafka, Spark Streaming, AWS, and MongoDB to process 
 ### [AWS Glue & Redshift Data Migration](https://github.com/username/snowflake-pipeline)
 Automated data loading from S3 to Redshift,ensuring data integrity.
 
-### [Automated Data Flow to Snowflake](https://github.com/username/snowflake-pipeline)
+### [Automated Data Flow to Snowflake](https://github.com/plnevina/Automated-Data-Flow-to-Snowflake-DB)
 Automated the process of loading data from DynamoDB to S3, then into Snowflake using Lambda, SQS, and IAM roles.
 
 ## 📊 GitHub Stats

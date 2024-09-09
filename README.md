@@ -26,7 +26,7 @@ Automated the process of loading data from DynamoDB to S3, then into Snowflake u
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ## 📫 How to Reach Me
--LinkedIn: [Connect with me](www.linkedin.com/in/nevina-pl-11d89y)
+-LinkedIn: [Connect with me](https://linkedin.com/in/nevina-pl-11d89y)
 
 -Email: [nevina89@gmail.com](mailto:youremail@example.com)
 

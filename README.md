@@ -15,7 +15,7 @@ A passionate data engineer with expertise in Big Data technologies, cloud comput
 ### [ETL Pipeline for Weather Data](https://github.com/plnevina/ETL-pipeline-kafka-aws-mongodb)
 Built an ETL pipeline using Kafka, Spark Streaming, AWS, and MongoDB to process and store weather data in real-time.
 
-### [AWS Glue & Redshift Data Migration](https://github.com/username/snowflake-pipeline)
+### [AWS Glue & Redshift Data Migration](https://github.com/plnevina/AWSGlue-Redshift-DataMigration)
 Automated data loading from S3 to Redshift,ensuring data integrity.
 
 ### [Automated Data Flow to Snowflake](https://github.com/plnevina/Automated-Data-Flow-to-Snowflake-DB)
